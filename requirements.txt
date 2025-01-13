@@ -4,3 +4,4 @@ aiohttp
 curl_cffi
 bs4
 fake_useragent
+lxml
