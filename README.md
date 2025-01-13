@@ -1,9 +1,5 @@
 # LeetCode Problem Scraper and Python File Generator
 
-[![GitHub stars](https://img.shields.io/github/stars/Fer1dlock/leetcode-problems-parser?style=social)](https://github.com/Fer1dlock/leetcode-problems-parser/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Fer1dlock/leetcode-problems-parser)](https://github.com/Fer1dlock/leetcode-problems-parser/issues)
-[![GitHub license](https://img.shields.io/github/license/Fer1dlock/leetcode-problems-parser)](https://github.com/Fer1dlock/leetcode-problems-parser/blob/main/LICENSE)
-
 This project automates the process of fetching LeetCode problems, extracting their descriptions, code snippets (Python), and example test cases, and then generating individual Python files for each problem, ready for local development and testing.
 
 ## Features
