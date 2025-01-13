@@ -70,13 +70,3 @@ Contributions are welcome!
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. (You need to create a LICENSE file in your project - choose a license that suits your needs. The MIT License is a common choice for open-source projects).
-
----
-**Remember to:**
-
-1. Replace `YOUR_GITHUB_USERNAME` and `YOUR_REPOSITORY_NAME` with your actual GitHub username and repository name.
-2. Create a `LICENSE` file in your repository and choose an appropriate license.
-3. Fill in the shields at the top with the correct links (stars, issues, license).
-4. Consider adding a section on how to run the generated Python files and how to use them for solving LeetCode problems.
-
-This comprehensive README will make your project more accessible and easier to understand for other developers. I hope this helps!
