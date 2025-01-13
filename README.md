@@ -32,7 +32,7 @@ This project automates the process of fetching LeetCode problems, extracting the
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Fer1dlock/leetcode-problems-parser
+    git clone https://github.com/Fer1dlock/leetcode-problems-parser.git
     cd leetcode-problems-parser
     ```
 
